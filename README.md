@@ -5,6 +5,8 @@ Instagram clone with Express, Prisma, React and React native
 # User Stories
 
 - [x] Create account
+- [ ] Request Secret
+- [ ] Confirm Secret (Login)
 - [ ] See the feed
 - [ ] Like / Unlike a photo
 - [ ] Comment on a photo
@@ -13,7 +15,6 @@ Instagram clone with Express, Prisma, React and React native
 - [ ] See user profile
 - [ ] Follow/unfollow User
 - [ ] Edit my profile
-- [ ] Log in
 - [ ] Upload a photo
 - [ ] Edit the photo (delete)
 - [ ] See the feed
